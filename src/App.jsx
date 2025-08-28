@@ -142,9 +142,6 @@ export default function App(){
             <a className="link" style={{marginLeft:8}} href={LINKS.github} target="_blank" rel="noreferrer">GitHub</a> •
             <a className="link" style={{marginLeft:8}} href={LINKS.linkedin} target="_blank" rel="noreferrer">LinkedIn</a>
           </p>
-          <p className="small">
-            Para ativar o botão do currículo, altere <code>LINKS.cv</code> em <code>src/config.js</code> para a URL do seu PDF.
-          </p>
         </div>
       </section>
 
